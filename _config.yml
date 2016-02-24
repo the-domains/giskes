@@ -1,28 +1,8 @@
-name: Giskes
-favicon: null
-layout_spectrum: 0.59565
-typography_spectrum: 0.46334
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 1
 color:
-  brandColors:
-    - '#fbf7ee'
-    - '#000000'
-    - '#fdd900'
-    - '#7a5238'
-    - '#bd8434'
+  saturation: 1
   brandStrength: 0.9211469
   lightness: 0.374552
-  saturation: 1
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.6021506
+name: Giskes
