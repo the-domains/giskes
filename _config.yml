@@ -1,7 +1,7 @@
 name: Giskes
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.6021506
+layout_spectrum: 0.59565
+typography_spectrum: 0.46334
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#aa9faf'
-    - '#e0c5cc'
-    - '#746b6e'
-    - '#2e292d'
-    - '#fefeff'
+    - '#fbf7ee'
+    - '#000000'
+    - '#fdd900'
+    - '#7a5238'
+    - '#bd8434'
   brandStrength: 0.9211469
   lightness: 0.374552
   saturation: 1
