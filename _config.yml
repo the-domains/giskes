@@ -4,17 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.6021506
 color:
   saturation: 0.3781362
   brandStrength: 0.9211469
-  lightness: 0.7401434
   rhythmicContrast: 0.01612903
-layout_spectrum: 1
+  lightness: 0.7401434
+layout_spectrum: 0
 name: Giskes
