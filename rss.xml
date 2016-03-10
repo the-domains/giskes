@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Giskes]]></title>
-        <description><![CDATA[Giskes]]></description>
+        <title><![CDATA[Hermann Giskes]]></title>
+        <description><![CDATA[Hermann Giskes]]></description>
         <link>https://thegrid.ai/giskes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 16:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 16:35:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/giskes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/giskes/b967da11-8f6e-4407-8fcc-60b6e683ed5a/index.html</link>
             <guid isPermaLink="false">b967da11-8f6e-4407-8fcc-60b6e683ed5a</guid>
             <pubDate>Thu, 10 Mar 2016 16:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca8483d5-9542-4a83-a0a8-c2065340c5f4.jpg">]]></description>
+            <link>https://thegrid.ai/giskes/522b0a8d-4145-4a9b-90a1-43628aca7c09/index.html</link>
+            <guid isPermaLink="false">522b0a8d-4145-4a9b-90a1-43628aca7c09</guid>
+            <pubDate>Thu, 10 Mar 2016 16:34:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
