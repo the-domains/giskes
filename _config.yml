@@ -1,7 +1,7 @@
 name: Giskes
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6021506
+typography_spectrum: 0.46152
 collections:
   - index:
       path: /
@@ -28,9 +28,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.9211469
+  brandColors:
+    - '#fbfdfc'
+    - '#000a47'
+    - '#284d9d'
+    - '#88b8fa'
+    - '#4b81fd'
+  brandStrength: 0.1875
   lightness: 0.7401434
   saturation: 0.3781362
-  rhythmicContrast: 0.01612903
+  rhythmicContrast: 0.75
 purpose: []
