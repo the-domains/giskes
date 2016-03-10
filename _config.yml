@@ -1,3 +1,7 @@
+name: Giskes
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6021506
 collections:
   - index:
       path: /
@@ -10,11 +14,23 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6021506
+title: Hermann Giskes
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3781362
+  brandColors: []
   brandStrength: 0.9211469
-  rhythmicContrast: 0.01612903
   lightness: 0.7401434
-layout_spectrum: 1
-name: Giskes
+  saturation: 0.3781362
+  rhythmicContrast: 0.01612903
+purpose: []
