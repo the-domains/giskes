@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "My name is Hermann Giskes. I am the founder of Giskes whitch was founded in 2011. As a young entrepreneur and designer i try to make the world a bit more beautifull through designing and creating extravagant objects.\_"
-datePublished: '2016-03-13T15:12:27.364Z'
-dateModified: '2016-03-13T15:11:56.340Z'
+description: "\_My name is Hermann Giskes. \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_I am the founder of Giskes whitch was founded in 2011. \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_As a young entrepreneur and designer i try to make the world a bit more beautifull through designing and creating extravagant objects.\_"
+datePublished: '2016-03-13T15:14:24.064Z'
+dateModified: '2016-03-13T15:12:32.896Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-my-name-is-hermann-giskes-i-am-the-founder-of-giskes-whitch.md
