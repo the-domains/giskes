@@ -1,8 +1,8 @@
+name: Giskes
+favicon: null
+layout_spectrum: 0.4910394
 typography_spectrum: 0.46152
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: GISKES
 collections:
   - index:
       path: /
@@ -15,27 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4910394
-title: GISKES
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3781362
-  brandStrength: 0.1875
-  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#231f1e'
     - '#fcfcfc'
     - '#565553'
     - '#201c1b'
+  brandStrength: 0.1875
   lightness: 0.6875
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Giskes
+  saturation: 0.3781362
+  rhythmicContrast: 1
+purpose: []
