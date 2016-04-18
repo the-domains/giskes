@@ -2,7 +2,7 @@ name: Giskes
 favicon: null
 layout_spectrum: 0.21688
 typography_spectrum: 0.61238
-title: GISKES
+title: null
 collections:
   - index:
       path: /
