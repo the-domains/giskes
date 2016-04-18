@@ -1,7 +1,7 @@
 name: Giskes
 favicon: null
-layout_spectrum: 0.49351
-typography_spectrum: 0.1039427
+layout_spectrum: 0.21688
+typography_spectrum: 0.61238
 title: GISKES
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000912'
-    - '#f1ffff'
-    - '#847150'
-    - '#2fa199'
-    - '#740000'
+    - '#fefdf9'
+    - '#0d0b0c'
+    - '#a77b4c'
+    - '#d8d0bb'
+    - '#6a5345'
   brandStrength: 0.25
   lightness: 0.6875
   saturation: 0.3125
